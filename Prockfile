@@ -1,1 +1,0 @@
-web: java -jar -Dspring.profiles.active=production target/spring-boot-mysql-1.0.0.jar
