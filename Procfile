@@ -1,1 +1,1 @@
-java -Dserver.port=$PORT $JAVA_OPTS -jar target/*.jar
+java $JAVA_OPTS -jar target/spring-boot-mysql.jar --server.port=$PORT $JAR_OPTS
